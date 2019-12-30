@@ -9,7 +9,7 @@
 
 Должна присутстовать функция **main**, которая вызываю функцию **runApp(Widget)**
 
-##Settings
+## Settings
 **pubspec.yaml**- аналоги AndroidManifest
 
 Для картинки была создана папка **images**, и добавлена в **pubspec.yaml**
