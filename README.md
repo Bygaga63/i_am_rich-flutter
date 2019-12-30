@@ -1,6 +1,6 @@
 # i_am_rich
 
-Аналог приложения которое стоило 999$ 'I am reach'
+Аналог приложения которое стоило 999$ **"I am reach"** когда только появился apple pay
 
 ![I am reach image](/images/diamond.webp)
 
